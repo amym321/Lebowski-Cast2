@@ -1,0 +1,3 @@
+# https://www.lebowskitxt.org/lebowskitxt.html
+User-agent: *
+Disallow:
