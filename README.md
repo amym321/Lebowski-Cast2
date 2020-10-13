@@ -1,6 +1,6 @@
 # Lebowski Cast
 
-<img src="https://github.com/amym321/Fachttps://github.com/amym321/Lebowski-Cast2/blob/main/assets/Lebowski.jpg" width="600" >
+<img src="https://github.com/amym321/Lebowski-Cast2/blob/master/assets/Lebowski.jpg" width="600" >
 
 ## Challenge  
 
