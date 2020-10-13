@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Lebowski_Cast2/static/css/main.de73bc46.chunk.css",
-    "main.js": "/Lebowski_Cast2/static/js/main.901bf0de.chunk.js",
-    "main.js.map": "/Lebowski_Cast2/static/js/main.901bf0de.chunk.js.map",
-    "runtime-main.js": "/Lebowski_Cast2/static/js/runtime-main.8e0cb6e0.js",
-    "runtime-main.js.map": "/Lebowski_Cast2/static/js/runtime-main.8e0cb6e0.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Lebowski_Cast2/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.6c5aae56.chunk.js": "/Lebowski_Cast2/static/js/2.6c5aae56.chunk.js",
-    "static/js/2.6c5aae56.chunk.js.map": "/Lebowski_Cast2/static/js/2.6c5aae56.chunk.js.map",
-    "index.html": "/Lebowski_Cast2/index.html",
-    "precache-manifest.34e00bfb82a1bba556cca0ecf088135d.js": "/Lebowski_Cast2/precache-manifest.34e00bfb82a1bba556cca0ecf088135d.js",
-    "service-worker.js": "/Lebowski_Cast2/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Lebowski_Cast2/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.de73bc46.chunk.css.map": "/Lebowski_Cast2/static/css/main.de73bc46.chunk.css.map",
-    "static/js/2.6c5aae56.chunk.js.LICENSE.txt": "/Lebowski_Cast2/static/js/2.6c5aae56.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Lebowski_Cast2/static/media/Diavlo_BLACK_II_37.6f6d9b4d.woff"
+    "main.css": "/Lebowski-Cast2/static/css/main.44be4512.chunk.css",
+    "main.js": "/Lebowski-Cast2/static/js/main.3d23e275.chunk.js",
+    "main.js.map": "/Lebowski-Cast2/static/js/main.3d23e275.chunk.js.map",
+    "runtime-main.js": "/Lebowski-Cast2/static/js/runtime-main.40c49e71.js",
+    "runtime-main.js.map": "/Lebowski-Cast2/static/js/runtime-main.40c49e71.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Lebowski-Cast2/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6c5aae56.chunk.js": "/Lebowski-Cast2/static/js/2.6c5aae56.chunk.js",
+    "static/js/2.6c5aae56.chunk.js.map": "/Lebowski-Cast2/static/js/2.6c5aae56.chunk.js.map",
+    "index.html": "/Lebowski-Cast2/index.html",
+    "precache-manifest.9a996dc65b21c511b07e7eeb920826a6.js": "/Lebowski-Cast2/precache-manifest.9a996dc65b21c511b07e7eeb920826a6.js",
+    "service-worker.js": "/Lebowski-Cast2/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Lebowski-Cast2/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.44be4512.chunk.css.map": "/Lebowski-Cast2/static/css/main.44be4512.chunk.css.map",
+    "static/js/2.6c5aae56.chunk.js.LICENSE.txt": "/Lebowski-Cast2/static/js/2.6c5aae56.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Lebowski-Cast2/static/media/Diavlo_BLACK_II_37.6f6d9b4d.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e0cb6e0.js",
+    "static/js/runtime-main.40c49e71.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.6c5aae56.chunk.js",
-    "static/css/main.de73bc46.chunk.css",
-    "static/js/main.901bf0de.chunk.js"
+    "static/css/main.44be4512.chunk.css",
+    "static/js/main.3d23e275.chunk.js"
   ]
 }
