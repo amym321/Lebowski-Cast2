@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Diavlo Black Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Diavlo Black Regular'), url('Diavlo_BLACK_II_37.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Diavlo Black Regular';
+    font-weight: 200;
+    color: #eb370b;
+}
